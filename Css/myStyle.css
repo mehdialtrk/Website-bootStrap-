@@ -1,0 +1,35 @@
+.yazi1{
+    font-size: 20px;
+    text-align: center;
+    padding: 30px 100px;
+    
+}
+.container{
+    background-color: #E9ECEF;
+    padding: 20px;
+    width: auto;
+   height:600px;
+}
+.bg-menu{
+    background: rgba(0, 0, 0, 0.726);
+}
+.container col-4{
+    height: 30px;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+.baslik{
+   
+    font-size: 16px;
+}
+.card-about{
+    font-size: 20px;
+    text-align: center;
+    padding: 30px 100px;
+}
+.card-img{
+    padding: 20px 0;
+    width: 300px;
+    height: 251px;
+}
